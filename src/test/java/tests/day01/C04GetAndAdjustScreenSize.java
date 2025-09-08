@@ -1,4 +1,4 @@
-package tests;
+package tests.day01;
 
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Point;
