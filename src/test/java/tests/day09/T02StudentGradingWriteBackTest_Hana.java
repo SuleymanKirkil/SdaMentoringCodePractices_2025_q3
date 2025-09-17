@@ -1,4 +1,4 @@
-package tests;
+package tests.day09;
 
 import org.junit.jupiter.api.Test;
 import org.apache.poi.ss.usermodel.*;

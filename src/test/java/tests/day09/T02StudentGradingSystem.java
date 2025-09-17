@@ -1,4 +1,4 @@
-package tests;
+package tests.day09;
 
 import utilities.TestBase;
 

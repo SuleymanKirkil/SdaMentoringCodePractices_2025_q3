@@ -1,0 +1,472 @@
+Chrome browser is initialized...
+claruswaysda web site is opened ....
+Adding 10 records to the site
+Sent keys 'Mariam' to element: By.id: nameInput
+Sent keys '31' to element: By.id: ageInput
+Element found successfully: By.id: countrySelect
+Clicked element successfully: By.xpath: //button[.='Add Record']
+Sent keys 'Helen' to element: By.id: nameInput
+Sent keys '28' to element: By.id: ageInput
+Element found successfully: By.id: countrySelect
+Clicked element successfully: By.xpath: //button[.='Add Record']
+Sent keys 'Galen' to element: By.id: nameInput
+Sent keys '29' to element: By.id: ageInput
+Element found successfully: By.id: countrySelect
+Clicked element successfully: By.xpath: //button[.='Add Record']
+Sent keys 'Joey' to element: By.id: nameInput
+Sent keys '34' to element: By.id: ageInput
+Element found successfully: By.id: countrySelect
+Clicked element successfully: By.xpath: //button[.='Add Record']
+Sent keys 'Scottie' to element: By.id: nameInput
+Sent keys '40' to element: By.id: ageInput
+Element found successfully: By.id: countrySelect
+Clicked element successfully: By.xpath: //button[.='Add Record']
+Sent keys 'Justine' to element: By.id: nameInput
+Sent keys '40' to element: By.id: ageInput
+Element found successfully: By.id: countrySelect
+Clicked element successfully: By.xpath: //button[.='Add Record']
+Sent keys 'Bo' to element: By.id: nameInput
+Sent keys '38' to element: By.id: ageInput
+Element found successfully: By.id: countrySelect
+Clicked element successfully: By.xpath: //button[.='Add Record']
+Sent keys 'Minerva' to element: By.id: nameInput
+Sent keys '31' to element: By.id: ageInput
+Element found successfully: By.id: countrySelect
+Clicked element successfully: By.xpath: //button[.='Add Record']
+Sent keys 'Santos' to element: By.id: nameInput
+Sent keys '23' to element: By.id: ageInput
+Element found successfully: By.id: countrySelect
+Clicked element successfully: By.xpath: //button[.='Add Record']
+Sent keys 'Santo' to element: By.id: nameInput
+Sent keys '36' to element: By.id: ageInput
+Element found successfully: By.id: countrySelect
+Clicked element successfully: By.xpath: //button[.='Add Record']
+Chrome browser is closed ...
+2025-09-17 14:39:43.041 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 14:39:46.863 | INFO  | [main] | utilities.TestBase2 | claruswaysda web site is opened ....
+2025-09-17 14:39:46.867 | INFO  | [main] | utilities.TestBase2 | Adding 10 records to the site
+2025-09-17 14:39:47.150 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Jame' to element: By.id: nameInput
+2025-09-17 14:39:47.202 | INFO  | [main] | utilities.ActionHelper | Sent keys '42' to element: By.id: ageInput
+2025-09-17 14:39:47.214 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:39:47.319 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:39:47.392 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Cristy' to element: By.id: nameInput
+2025-09-17 14:39:47.470 | INFO  | [main] | utilities.ActionHelper | Sent keys '19' to element: By.id: ageInput
+2025-09-17 14:39:47.493 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:39:47.612 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:39:47.693 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Jasper' to element: By.id: nameInput
+2025-09-17 14:39:47.742 | INFO  | [main] | utilities.ActionHelper | Sent keys '29' to element: By.id: ageInput
+2025-09-17 14:39:47.753 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:39:47.845 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:39:47.922 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Keeley' to element: By.id: nameInput
+2025-09-17 14:39:47.967 | INFO  | [main] | utilities.ActionHelper | Sent keys '42' to element: By.id: ageInput
+2025-09-17 14:39:47.974 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:39:48.095 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:39:48.165 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Isreal' to element: By.id: nameInput
+2025-09-17 14:39:48.216 | INFO  | [main] | utilities.ActionHelper | Sent keys '26' to element: By.id: ageInput
+2025-09-17 14:39:48.224 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:39:48.301 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:39:48.394 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Kelley' to element: By.id: nameInput
+2025-09-17 14:39:48.437 | INFO  | [main] | utilities.ActionHelper | Sent keys '26' to element: By.id: ageInput
+2025-09-17 14:39:48.447 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:39:48.516 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:39:48.575 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Kristi' to element: By.id: nameInput
+2025-09-17 14:39:48.633 | INFO  | [main] | utilities.ActionHelper | Sent keys '21' to element: By.id: ageInput
+2025-09-17 14:39:48.642 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:39:48.737 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:39:48.796 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Darnell' to element: By.id: nameInput
+2025-09-17 14:39:48.840 | INFO  | [main] | utilities.ActionHelper | Sent keys '20' to element: By.id: ageInput
+2025-09-17 14:39:48.849 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:39:48.923 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:39:48.974 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Jerrica' to element: By.id: nameInput
+2025-09-17 14:39:49.016 | INFO  | [main] | utilities.ActionHelper | Sent keys '20' to element: By.id: ageInput
+2025-09-17 14:39:49.027 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:39:49.105 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:39:49.166 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Dwayne' to element: By.id: nameInput
+2025-09-17 14:39:49.218 | INFO  | [main] | utilities.ActionHelper | Sent keys '30' to element: By.id: ageInput
+2025-09-17 14:39:49.227 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:39:49.310 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:39:49.443 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...
+2025-09-17 14:42:19.507 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 14:42:22.166 | INFO  | [main] | utilities.TestBase2 | claruswaysda web site is opened ....
+2025-09-17 14:42:22.166 | INFO  | [main] | utilities.TestBase2 | Adding 10 records to the site
+2025-09-17 14:42:22.430 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Neal' to element: By.id: nameInput
+2025-09-17 14:42:22.478 | INFO  | [main] | utilities.ActionHelper | Sent keys '33' to element: By.id: ageInput
+2025-09-17 14:42:22.490 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:42:32.598 | ERROR | [main] | utilities.ActionHelper | Failed to click element: By.xpath: //button[.='Add Reord']
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //button[.='Add Reord'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.133, chrome: {chromedriverVersion: 140.0.7339.82 (bc93617e21c3..., userDataDir: /var/folders/kv/vhp5lr_x4sn...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50111}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50111/devtoo..., se:cdpVersion: 140.0.7339.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c4c147f3bee31260dfa568d18d773f93
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at utilities.ActionHelper.click(ActionHelper.java:41)
+	at tests.day10.T01AddRecordsTest.name(T01AddRecordsTest.java:35)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:787)
+	at org.junit.platform.commons.support.ReflectionSupport.invokeMethod(ReflectionSupport.java:478)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:161)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:152)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:91)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:112)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:94)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:87)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$4(TestMethodTestDescriptor.java:221)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:217)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:159)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:70)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:157)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.executeEngine(EngineExecutionOrchestrator.java:230)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.failOrExecuteEngine(EngineExecutionOrchestrator.java:204)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:172)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:101)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:64)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:150)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:63)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:109)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:91)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.InterceptingLauncher.lambda$execute$1(InterceptingLauncher.java:39)
+	at org.junit.platform.launcher.core.ClasspathAlignmentCheckingLauncherInterceptor.intercept(ClasspathAlignmentCheckingLauncherInterceptor.java:25)
+	at org.junit.platform.launcher.core.InterceptingLauncher.execute(InterceptingLauncher.java:38)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:66)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2025-09-17 14:42:32.762 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...
+2025-09-17 14:47:01.916 | ERROR | [main] | utilities.ActionHelper | Failed to click element: By.xpath: //button[.='Add Reord']
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //button[.='Add Reord'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.133, chrome: {chromedriverVersion: 140.0.7339.82 (bc93617e21c3..., userDataDir: /var/folders/kv/vhp5lr_x4sn...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51752}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:51752/devtoo..., se:cdpVersion: 140.0.7339.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 108dd7f0544a566fa5ebaa48e713720b
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at utilities.ActionHelper.click(ActionHelper.java:41)
+	at tests.day10.T01AddRecordsTest.name(T01AddRecordsTest.java:35)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:787)
+	at org.junit.platform.commons.support.ReflectionSupport.invokeMethod(ReflectionSupport.java:478)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:161)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:152)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:91)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:112)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:94)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:87)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$4(TestMethodTestDescriptor.java:221)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:217)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:159)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:70)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:157)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.executeEngine(EngineExecutionOrchestrator.java:230)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.failOrExecuteEngine(EngineExecutionOrchestrator.java:204)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:172)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:101)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:64)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:150)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:63)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:109)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:91)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.InterceptingLauncher.lambda$execute$1(InterceptingLauncher.java:39)
+	at org.junit.platform.launcher.core.ClasspathAlignmentCheckingLauncherInterceptor.intercept(ClasspathAlignmentCheckingLauncherInterceptor.java:25)
+	at org.junit.platform.launcher.core.InterceptingLauncher.execute(InterceptingLauncher.java:38)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:66)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2025-09-17 14:52:57.235 | ERROR | [main] | utilities.TestBase2 | Coulnd'T select by referance with idx :6
+2025-09-17 14:52:57.346 | ERROR | [main] | utilities.ActionHelper | Failed to send keys to element: By.id: nameInput
+org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Please fill out all fields.}
+  (Session info: chrome=140.0.7339.133): Please fill out all fields.
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8683c4e3817cdd9b6d23559f02a64d36, findElement {using=id, value=nameInput}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.133, chrome: {chromedriverVersion: 140.0.7339.82 (bc93617e21c3..., userDataDir: /var/folders/kv/vhp5lr_x4sn...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53992}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:53992/devtoo..., se:cdpVersion: 140.0.7339.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8683c4e3817cdd9b6d23559f02a64d36
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:136)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:194)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:190)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+	at utilities.ActionHelper.sendKeys(ActionHelper.java:69)
+	at tests.day10.T01AddRecordsTest.name(T01AddRecordsTest.java:30)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:787)
+	at org.junit.platform.commons.support.ReflectionSupport.invokeMethod(ReflectionSupport.java:478)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:161)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:152)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:91)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:112)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:94)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:87)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$4(TestMethodTestDescriptor.java:221)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:217)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:159)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:70)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:157)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.executeEngine(EngineExecutionOrchestrator.java:230)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.failOrExecuteEngine(EngineExecutionOrchestrator.java:204)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:172)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:101)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:64)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:150)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:63)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:109)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:91)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.InterceptingLauncher.lambda$execute$1(InterceptingLauncher.java:39)
+	at org.junit.platform.launcher.core.ClasspathAlignmentCheckingLauncherInterceptor.intercept(ClasspathAlignmentCheckingLauncherInterceptor.java:25)
+	at org.junit.platform.launcher.core.InterceptingLauncher.execute(InterceptingLauncher.java:38)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:66)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2025-09-17 14:55:04.271 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 14:55:07.941 | INFO  | [main] | utilities.TestBase2 | claruswaysda web site is opened ....
+2025-09-17 14:55:07.942 | INFO  | [main] | utilities.TestBase2 | Adding 10 records to the site
+2025-09-17 14:55:08.229 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Dwana' to element: By.id: nameInput
+2025-09-17 14:55:08.291 | INFO  | [main] | utilities.ActionHelper | Sent keys '29' to element: By.id: ageInput
+2025-09-17 14:55:08.305 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:55:08.374 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :3
+2025-09-17 14:55:08.451 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:55:08.539 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Cody' to element: By.id: nameInput
+2025-09-17 14:55:08.588 | INFO  | [main] | utilities.ActionHelper | Sent keys '27' to element: By.id: ageInput
+2025-09-17 14:55:08.605 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:55:08.664 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 14:55:08.704 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:55:08.776 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Stacia' to element: By.id: nameInput
+2025-09-17 14:55:08.820 | INFO  | [main] | utilities.ActionHelper | Sent keys '46' to element: By.id: ageInput
+2025-09-17 14:55:08.827 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:55:08.882 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :3
+2025-09-17 14:55:08.925 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:55:08.996 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Aldo' to element: By.id: nameInput
+2025-09-17 14:55:09.044 | INFO  | [main] | utilities.ActionHelper | Sent keys '31' to element: By.id: ageInput
+2025-09-17 14:55:09.051 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:55:09.110 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 14:55:09.147 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:55:09.218 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Leslie' to element: By.id: nameInput
+2025-09-17 14:55:09.260 | INFO  | [main] | utilities.ActionHelper | Sent keys '30' to element: By.id: ageInput
+2025-09-17 14:55:09.270 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:55:09.326 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 14:55:09.375 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:55:09.430 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Marceline' to element: By.id: nameInput
+2025-09-17 14:55:09.474 | INFO  | [main] | utilities.ActionHelper | Sent keys '26' to element: By.id: ageInput
+2025-09-17 14:55:09.481 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:55:09.529 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :2
+2025-09-17 14:55:09.571 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:55:09.649 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Demarcus' to element: By.id: nameInput
+2025-09-17 14:55:09.696 | INFO  | [main] | utilities.ActionHelper | Sent keys '30' to element: By.id: ageInput
+2025-09-17 14:55:09.706 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:55:09.777 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :3
+2025-09-17 14:55:09.820 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:55:09.880 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Augustus' to element: By.id: nameInput
+2025-09-17 14:55:09.923 | INFO  | [main] | utilities.ActionHelper | Sent keys '34' to element: By.id: ageInput
+2025-09-17 14:55:09.935 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:55:09.984 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 14:55:10.019 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:55:10.085 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Drew' to element: By.id: nameInput
+2025-09-17 14:55:10.136 | INFO  | [main] | utilities.ActionHelper | Sent keys '25' to element: By.id: ageInput
+2025-09-17 14:55:10.146 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:55:10.193 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 14:55:10.244 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:55:10.313 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Allene' to element: By.id: nameInput
+2025-09-17 14:55:10.358 | INFO  | [main] | utilities.ActionHelper | Sent keys '44' to element: By.id: ageInput
+2025-09-17 14:55:10.369 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 14:55:10.422 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :2
+2025-09-17 14:55:10.457 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 14:55:10.550 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...
+2025-09-17 15:05:18.727 | INFO  | [main] | utilities.TestBase2 | Chrome browser is initialized...
+2025-09-17 15:05:22.568 | INFO  | [main] | utilities.TestBase2 | claruswaysda web site is opened ....
+2025-09-17 15:05:22.587 | INFO  | [main] | utilities.TestBase2 | Adding 10 records to the site
+2025-09-17 15:05:22.867 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Shirlee' to element: By.id: nameInput
+2025-09-17 15:05:22.920 | INFO  | [main] | utilities.ActionHelper | Sent keys '25' to element: By.id: ageInput
+2025-09-17 15:05:22.934 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:05:22.990 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :2
+2025-09-17 15:05:23.033 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:05:23.136 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Mirna' to element: By.id: nameInput
+2025-09-17 15:05:23.222 | INFO  | [main] | utilities.ActionHelper | Sent keys '22' to element: By.id: ageInput
+2025-09-17 15:05:23.236 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:05:23.288 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 15:05:23.331 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:05:23.409 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Marvis' to element: By.id: nameInput
+2025-09-17 15:05:23.462 | INFO  | [main] | utilities.ActionHelper | Sent keys '31' to element: By.id: ageInput
+2025-09-17 15:05:23.471 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:05:23.513 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :1
+2025-09-17 15:05:23.547 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:05:23.604 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Maryjo' to element: By.id: nameInput
+2025-09-17 15:05:23.662 | INFO  | [main] | utilities.ActionHelper | Sent keys '33' to element: By.id: ageInput
+2025-09-17 15:05:23.672 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:05:23.718 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :2
+2025-09-17 15:05:23.754 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:05:23.811 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Beryl' to element: By.id: nameInput
+2025-09-17 15:05:23.854 | INFO  | [main] | utilities.ActionHelper | Sent keys '20' to element: By.id: ageInput
+2025-09-17 15:05:23.864 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:05:23.916 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 15:05:23.953 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:05:24.008 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Deb' to element: By.id: nameInput
+2025-09-17 15:05:24.060 | INFO  | [main] | utilities.ActionHelper | Sent keys '37' to element: By.id: ageInput
+2025-09-17 15:05:24.068 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:05:24.115 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 15:05:24.147 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:05:24.203 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Byron' to element: By.id: nameInput
+2025-09-17 15:05:24.249 | INFO  | [main] | utilities.ActionHelper | Sent keys '44' to element: By.id: ageInput
+2025-09-17 15:05:24.258 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:05:24.309 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :2
+2025-09-17 15:05:24.347 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:05:24.402 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Val' to element: By.id: nameInput
+2025-09-17 15:05:24.445 | INFO  | [main] | utilities.ActionHelper | Sent keys '26' to element: By.id: ageInput
+2025-09-17 15:05:24.454 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:05:24.506 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :4
+2025-09-17 15:05:24.540 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:05:24.593 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Oswaldo' to element: By.id: nameInput
+2025-09-17 15:05:24.637 | INFO  | [main] | utilities.ActionHelper | Sent keys '26' to element: By.id: ageInput
+2025-09-17 15:05:24.644 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:05:24.699 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :2
+2025-09-17 15:05:24.739 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:05:24.787 | INFO  | [main] | utilities.ActionHelper | Sent keys 'Duane' to element: By.id: nameInput
+2025-09-17 15:05:24.829 | INFO  | [main] | utilities.ActionHelper | Sent keys '36' to element: By.id: ageInput
+2025-09-17 15:05:24.837 | INFO  | [main] | utilities.ActionHelper | Element found successfully: By.id: countrySelect
+2025-09-17 15:05:24.882 | INFO  | [main] | utilities.TestBase2 | Country is selecteed with index :2
+2025-09-17 15:05:24.918 | INFO  | [main] | utilities.ActionHelper | Clicked element successfully: By.xpath: //button[.='Add Record']
+2025-09-17 15:05:35.165 | INFO  | [main] | utilities.TestBase2 | Chrome browser is closed ...

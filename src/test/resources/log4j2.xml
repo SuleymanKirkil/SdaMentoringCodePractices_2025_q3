@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- status="WARN": Log4j'nin kendi iç loglarının seviyesini belirtir -->
+<Configuration status="INFO">
+    <!-- Appenders: Logların nereye yazılacağını belirtir -->
+    <Appenders>
+        <!-- Console Appender: Logları konsola yazdırır -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout>
+                <!-- Log pattern açıklaması:
+                     %d{HH:mm:ss.SSS} = Saat:Dakika:Saniye.Milisaniye
+                     %-5level = Log seviyesi (5 karakter genişliğinde)
+                     [%t] = Thread adı
+                     %logger{36} = Logger adı (max 36 karakter)
+                     %msg = Log mesajı
+                     %n = Yeni satır
+                -->
+                <Pattern>
+                    %d{HH:mm:ss.SSS} |
+                    %highlight{%-5level}{FATAL=red bold, ERROR=red, WARN=yellow bold, INFO=green, DEBUG=blue bold, TRACE=black} |
+                    [%t] |
+                    %logger{36} |
+                    %style{%msg}{white} %n
+                </Pattern>
+            </PatternLayout>
+        </Console>
+
+        <!-- File Appender: Logları dosyaya yazdırır -->
+        <RollingFile name="RollingFile"
+                     fileName="logs/test.log"
+                     filePattern="logs/test-%d{yyyy-MM-dd}-%i.log">
+            <PatternLayout>
+                <Pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} | %-5level | [%t] | %logger{36} | %msg%n</Pattern>
+            </PatternLayout>
+            <!-- Dosya boyutu 10MB'a ulaştığında yeni dosya oluşturur -->
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10 MB"/>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+            </Policies>
+            <!-- Maximum 10 dosya saklar -->
+            <DefaultRolloverStrategy max="10"/>
+        </RollingFile>
+    </Appenders>
+
+    <!-- Loggers: Hangi log seviyesinde, hangi appender'ların kullanılacağını belirtir -->
+    <Loggers>
+        <!-- Root Logger: Tüm loglar için geçerli ayarlar -->
+        <Root level="warn">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="RollingFile"/>
+        </Root>
+    </Loggers>
+</Configuration>
